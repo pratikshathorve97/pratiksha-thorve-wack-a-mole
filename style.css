@@ -1,13 +1,13 @@
 html{
-    font-size: 25px;
-    background-color: aquamarine;
+    font-size: 35px;
     /* background-color: rgb(102, 102, 240); */
+    background-image: url("background.png");
 }
 
 body{
     text-align: center;
+}
 
-    
 h1{
     text-align: center;
     font-size: 80px;
